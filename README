@@ -1,0 +1,6 @@
+gameelsi
+jameel silwadi 209034495
+Exercise 1:pettern matching algorithim
+included files:
+slist.c -> implements linked list 
+pattern_matching.c -> implements a finite automata that searches for a pattern within a given text
